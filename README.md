@@ -12,8 +12,8 @@ Funciona apenas no navegador, modificando o que é exibido na tela.
 ## 🌍 Idiomas
 
 - 🇧🇷 Português (este arquivo)
-- 🇺🇸 English: `README.en.md`
-- 🇪🇸 Español: `README.es.md`
+- 🇺🇸 English: [CLICK HERE](README.en.md)
+- 🇪🇸 Español: [HAZ CLIC AQUÍ](README.es.md)
 
 ---
 
