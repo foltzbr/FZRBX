@@ -12,7 +12,7 @@ Funciona solo en el navegador, cambiando lo que se muestra en pantalla.
 ## 🌍 Idiomas
 
 - 🇧🇷 Português [CLIQUE AQUI](README.md)
-- 🇺🇸 English: [CLICK HERE](README.en.md)
+- 🇺🇸 English [CLICK HERE](README.en.md)
 - 🇪🇸 Espanol (este archivo)
 
 ---
