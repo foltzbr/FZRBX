@@ -11,9 +11,9 @@ Works only in the browser by changing what is displayed on screen.
 
 ## 🌍 Languages
 
-- 🇧🇷 Portuguese: `README.md`
+- 🇧🇷 Portuguese [CLIQUE AQUI](README.en.md)
 - 🇺🇸 English (this file)
-- 🇪🇸 Spanish: `README.es.md`
+- 🇪🇸 Spanish [HAZ CLIC AQUÍ](README.en.md)
 
 ---
 
