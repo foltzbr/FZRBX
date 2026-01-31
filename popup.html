@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="shell">
+    <div class="header-row">
+      <div class="brand">
+        <div class="badge">FZ</div>
+        <h3 class="title" data-i18n="title">FZRBX</h3>
+      </div>
+      <select id="lang" class="lang-select" aria-label="language">
+        <option value="pt-BR">PT-BR</option>
+        <option value="en">EN</option>
+        <option value="es">ES</option>
+      </select>
+    </div>
+    <p class="desc" data-i18n="desc">Mostra um valor falso de Robux so para voce.</p>
+
+    <div class="card">
+      <label class="label" for="value">ROBLOX</label>
+      <input id="value" type="text" inputmode="numeric" placeholder="robux fake" data-i18n-placeholder="placeholder">
+      <div id="status" class="status" role="status" aria-live="polite"></div>
+      <div class="actions">
+        <button id="apply" class="button-primary" data-i18n="apply">apply</button>
+        <button id="reset" class="button-reset" data-i18n="reset">reset</button>
+      </div>
+    </div>
+
+    <div class="footer">FAKE VISUAL ONLY</div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
