@@ -1,0 +1,4 @@
+# linguist overrides
+icon.png linguist-vendored
+popup.png linguist-vendored
+*.png linguist-vendored
