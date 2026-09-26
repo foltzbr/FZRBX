@@ -1,5 +1,7 @@
 # FZRBX 💸
 
+![Chromium](https://img.shields.io/badge/Chromium-supported-brightgreen) ![Lang](https://img.shields.io/badge/lang-PT%20%7C%20EN%20%7C%20ES-blue) ![Open Source](https://img.shields.io/badge/open%20source-100%25-orange)
+
 **Fake Robux Display Extension (100% Open Source)**  
 Extensão totalmente open source criada apenas para fins visuais, educacionais e de entretenimento.  
 Não gera Robux reais, não altera dados do servidor e não interfere na conta do Roblox.  

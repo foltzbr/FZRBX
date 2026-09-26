@@ -1,5 +1,7 @@
 # FZRBX 💸
 
+![Chromium](https://img.shields.io/badge/Chromium-supported-brightgreen) ![Lang](https://img.shields.io/badge/lang-PT%20%7C%20EN%20%7C%20ES-blue) ![Open Source](https://img.shields.io/badge/open%20source-100%25-orange)
+
 **Extension de visualizacion falsa de Robux (100% Open Source)**  
 Extension totalmente open source creada solo para fines visuales, educativos y recreativos.  
 No genera Robux reales, no modifica datos del servidor y no afecta cuentas de Roblox.  
@@ -13,7 +15,7 @@ Funciona solo en el navegador, cambiando lo que se muestra en pantalla.
 
 - 🇧🇷 Português [CLIQUE AQUI](README.md)
 - 🇺🇸 English [CLICK HERE](README.en.md)
-- 🇪🇸 Espanol (este archivo)
+- 🇪🇸 Español (este archivo)
 
 ---
 

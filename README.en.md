@@ -1,5 +1,7 @@
 # FZRBX 💸
 
+![Chromium](https://img.shields.io/badge/Chromium-supported-brightgreen) ![Lang](https://img.shields.io/badge/lang-PT%20%7C%20EN%20%7C%20ES-blue) ![Open Source](https://img.shields.io/badge/open%20source-100%25-orange)
+
 **Fake Robux Display Extension (100% Open Source)**  
 A fully open source browser extension created for visual, educational, and entertainment purposes only.  
 It does not generate real Robux, does not modify server data, and does not affect Roblox accounts.  
@@ -11,9 +13,9 @@ Works only in the browser by changing what is displayed on screen.
 
 ## 🌍 Languages
 
-- 🇧🇷 Portuguese [CLIQUE AQUI](README.en.md)
+- 🇧🇷 Portuguese [CLIQUE AQUI](README.md)
 - 🇺🇸 English (this file)
-- 🇪🇸 Spanish [HAZ CLIC AQUÍ](README.en.md)
+- 🇪🇸 Spanish [HAZ CLIC AQUÍ](README.es.md)
 
 ---
 
