@@ -105,16 +105,6 @@ Luego:
 
 ---
 
-## Apoya el proyecto
-
-Si quieres ayudar:
-
-- 💚 PIX: pixgg.com/foltz
-- 🟠 Bitcoin (BTC): bc1qn9nuvkqz29pzfzndj0vr6s32qd72jazh5gup40
-- 🔷 Ethereum (ETH): 0x8Cc50279b5370442C46cC52152eFa50A5f300447
-
----
-
 ## Aviso legal
 
 - No afiliado a Roblox.
