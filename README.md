@@ -11,15 +11,15 @@ Funciona apenas no navegador, modificando o que é exibido na tela.
 
 ---
 
-## 🌍 Idiomas
+## Idiomas
 
-- 🇧🇷 Português (este arquivo)
-- 🇺🇸 English [CLICK HERE](README.en.md)
-- 🇪🇸 Español [HAZ CLIC AQUÍ](README.es.md)
+- Português (este arquivo)
+- English [CLICK HERE](README.en.md)
+- Español [HAZ CLIC AQUÍ](README.es.md)
 
 ---
 
-## 🔓 Projeto 100% Open Source
+## Projeto 100% Open Source
 
 - Todo o código é público.
 - Não há código oculto ou ofuscado.
@@ -28,7 +28,7 @@ Funciona apenas no navegador, modificando o que é exibido na tela.
 
 ---
 
-## 🚀 O que essa extensão faz
+## O que essa extensão faz
 
 - Exibe um valor fake de Robux.
 - Mantém o valor fixo ao recarregar a página.
@@ -43,7 +43,7 @@ Funciona apenas no navegador, modificando o que é exibido na tela.
 
 ---
 
-## ❌ O que ela NÃO faz
+## O que ela NÃO faz
 
 - Não gera Robux.
 - Não altera saldo real.
@@ -53,7 +53,7 @@ Funciona apenas no navegador, modificando o que é exibido na tela.
 
 ---
 
-## 🧠 Como funciona
+## Como funciona
 
 1. O valor fake é salvo localmente no navegador.
 2. Um script roda nas páginas do Roblox.
@@ -64,7 +64,7 @@ Funciona apenas no navegador, modificando o que é exibido na tela.
 
 ---
 
-## 🧩 Interface da extensão
+## Interface da extensão
 
 - Campo para inserir o valor fake.
 - Botão **Apply** (aplica o valor e salva localmente).
@@ -73,13 +73,13 @@ Funciona apenas no navegador, modificando o que é exibido na tela.
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 ![Popup](popup.png)
 
 ---
 
-## 🌐 Navegadores compatíveis
+## Navegadores compatíveis
 
 Funciona em qualquer navegador baseado em Chromium:
 - Google Chrome
@@ -90,7 +90,7 @@ Funciona em qualquer navegador baseado em Chromium:
 
 ---
 
-## 🛠️ Instalação (Modo Desenvolvedor)
+## Instalação (Modo Desenvolvedor)
 
 Abra a página de extensões do navegador:
 
@@ -106,17 +106,17 @@ Depois:
 
 ---
 
-## 💎 Apoie o projeto
+## Apoie o projeto
 
 Se quiser ajudar:
 
-- 💚 PIX: pixgg.com/foltz
-- 🟠 Bitcoin (BTC): bc1qn9nuvkqz29pzfzndj0vr6s32qd72jazh5gup40
-- 🔷 Ethereum (ETH): 0x8Cc50279b5370442C46cC52152eFa50A5f300447
+- PIX: pixgg.com/foltz
+- Bitcoin (BTC): bc1qn9nuvkqz29pzfzndj0vr6s32qd72jazh5gup40
+- Ethereum (ETH): 0x8Cc50279b5370442C46cC52152eFa50A5f300447
 
 ---
 
-## ⚠️ Aviso legal
+## Aviso legal
 
 - Projeto não afiliado ao Roblox.
 - Não modifica dados reais.
