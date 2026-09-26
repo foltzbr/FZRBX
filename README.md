@@ -3,73 +3,73 @@
 ![Chromium](https://img.shields.io/badge/Chromium-supported-brightgreen) ![Lang](https://img.shields.io/badge/lang-PT%20%7C%20EN%20%7C%20ES-blue) ![Open Source](https://img.shields.io/badge/open%20source-100%25-orange)
 
 **Fake Robux Display Extension (100% Open Source)**  
-Extensão totalmente open source criada apenas para fins visuais, educacionais e de entretenimento.  
-Não gera Robux reais, não altera dados do servidor e não interfere na conta do Roblox.  
-Funciona apenas no navegador, modificando o que é exibido na tela.
+A fully open source browser extension created for visual, educational, and entertainment purposes only.  
+It does not generate real Robux, does not modify server data, and does not affect Roblox accounts.  
+Works only in the browser by changing what is displayed on screen.
 
 ![Logo](icon.png)
 
 ---
 
-## Idiomas
+## Languages
 
-- Português (este arquivo)
-- English [CLICK HERE](README.en.md)
-- Español [HAZ CLIC AQUÍ](README.es.md)
-
----
-
-## Projeto 100% Open Source
-
-- Todo o código é público.
-- Não há código oculto ou ofuscado.
-- Não há coleta de dados.
-- Não existe comunicação externa.
+- 🇧🇷 Portuguese [CLIQUE AQUI](README.pt.md)
+- 🇺🇸 English (this file)
+- 🇪🇸 Spanish [HAZ CLIC AQUÍ](README.es.md)
 
 ---
 
-## O que essa extensão faz
+## 100% Open Source
 
-- Exibe um valor fake de Robux.
-- Mantém o valor fixo ao recarregar a página.
-- Funciona somente no front-end.
-- Seletor de idioma no popup (PT-BR, EN, ES).
-- Ideal para:
-  - trollar amigos;
-  - gravar vídeos;
-  - streaming (OBS, Discord, lives);
-  - compartilhar tela sem mostrar o saldo real;
-  - testes visuais.
+- All code is public.
+- No hidden or obfuscated code.
+- No data collection.
+- No external communication.
 
 ---
 
-## O que ela NÃO faz
+## What this extension does
 
-- Não gera Robux.
-- Não altera saldo real.
-- Não envia dados para servidores do Roblox.
-- Não burla compras ou segurança.
-- Não funciona fora do navegador.
-
----
-
-## Como funciona
-
-1. O valor fake é salvo localmente no navegador.
-2. Um script roda nas páginas do Roblox.
-3. O texto exibido é substituído por um valor fake.
-4. O valor continua fixo mesmo após atualizações da página.
-
-É basicamente o mesmo efeito de usar **Inspecionar Elemento**, só que automático.
+- Displays a fake Robux amount.
+- Keeps the value fixed after page reload.
+- Works only on the front-end.
+- Language selector in the popup (PT-BR, EN, ES).
+- Ideal for:
+  - trolling friends;
+  - recording videos;
+  - streaming (OBS, Discord, live streams);
+  - screen sharing without showing real balance;
+  - visual testing.
 
 ---
 
-## Interface da extensão
+## What it does NOT do
 
-- Campo para inserir o valor fake.
-- Botão **Apply** (aplica o valor e salva localmente).
-- Botão **Reset** (remove o valor salvo).
-- Mensagens de status no popup.
+- Does not generate Robux.
+- Does not change real balances.
+- Does not send data to Roblox servers.
+- Does not bypass purchases or security.
+- Does not work outside the browser.
+
+---
+
+## How it works
+
+1. A fake value is stored locally in the browser.
+2. A script runs on Roblox pages.
+3. The displayed Robux text is replaced.
+4. The value stays fixed even after page updates.
+
+Basically the same effect as using **Inspect Element**, but automated.
+
+---
+
+## Extension interface
+
+- Input field for fake value.
+- **Apply** button (applies the value and saves locally).
+- **Reset** button (removes the saved value).
+- Status messages in the popup.
 
 ---
 
@@ -79,9 +79,9 @@ Funciona apenas no navegador, modificando o que é exibido na tela.
 
 ---
 
-## Navegadores compatíveis
+## Supported browsers
 
-Funciona em qualquer navegador baseado em Chromium:
+Works on any Chromium-based browser:
 - Google Chrome
 - Microsoft Edge
 - Brave
@@ -90,34 +90,34 @@ Funciona em qualquer navegador baseado em Chromium:
 
 ---
 
-## Instalação (Modo Desenvolvedor)
+## Installation (Developer Mode)
 
-Abra a página de extensões do navegador:
+Open the extensions page:
 
 ```
 chrome://extensions
 ```
 
-Depois:
+Then:
 
-1. Ative o **Modo do desenvolvedor**.
-2. Clique em **Carregar sem compactação**.
-3. Selecione a pasta do projeto.
-
----
-
-## Apoie o projeto
-
-Se quiser ajudar:
-
-- PIX: pixgg.com/foltz
-- Bitcoin (BTC): bc1qn9nuvkqz29pzfzndj0vr6s32qd72jazh5gup40
-- Ethereum (ETH): 0x8Cc50279b5370442C46cC52152eFa50A5f300447
+1. Enable **Developer mode**.
+2. Click **Load unpacked**.
+3. Select the project folder.
 
 ---
 
-## Aviso legal
+## Support the project
 
-- Projeto não afiliado ao Roblox.
-- Não modifica dados reais.
-- Uso apenas visual, educacional ou recreativo.
+If you want to help:
+
+- 💚 PIX: pixgg.com/foltz
+- 🟠 Bitcoin (BTC): bc1qn9nuvkqz29pzfzndj0vr6s32qd72jazh5gup40
+- 🔷 Ethereum (ETH): 0x8Cc50279b5370442C46cC52152eFa50A5f300447
+
+---
+
+## Legal notice
+
+- Not affiliated with Roblox.
+- Does not modify real data.
+- Visual and educational use only.

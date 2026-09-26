@@ -13,9 +13,9 @@ Funciona solo en el navegador, cambiando lo que se muestra en pantalla.
 
 ## Idiomas
 
-- Português [CLIQUE AQUI](README.md)
-- English [CLICK HERE](README.en.md)
-- Español (este archivo)
+- 🇧🇷 Português [CLIQUE AQUI](README.pt.md)
+- 🇺🇸 English [CLICK HERE](README.md)
+- 🇪🇸 Español (este archivo)
 
 ---
 
@@ -109,9 +109,9 @@ Luego:
 
 Si quieres ayudar:
 
-- PIX: pixgg.com/foltz
-- Bitcoin (BTC): bc1qn9nuvkqz29pzfzndj0vr6s32qd72jazh5gup40
-- Ethereum (ETH): 0x8Cc50279b5370442C46cC52152eFa50A5f300447
+- 💚 PIX: pixgg.com/foltz
+- 🟠 Bitcoin (BTC): bc1qn9nuvkqz29pzfzndj0vr6s32qd72jazh5gup40
+- 🔷 Ethereum (ETH): 0x8Cc50279b5370442C46cC52152eFa50A5f300447
 
 ---
 
